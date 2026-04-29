@@ -61,4 +61,11 @@ body {
 }.ativo {
   background-color: var(--botao-ativo);
   border-bottom: 4px solid var(--verde);
+}.botao{
+  padding: 2em; 
+}
+
+.fundo-preto{
+  background: black;
+  color: white;
 }
