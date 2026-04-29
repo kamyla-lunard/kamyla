@@ -66,6 +66,6 @@ body {
 }
 
 .fundo-preto{
-  background: black;
-  color: white;
+  background: rgb(0, 0, 0);
+  color: rgb(212, 140, 140);
 }
